@@ -1,0 +1,5 @@
+{
+  "name": "Support Agent Nicom",
+  "description": "A retrieval-augmented generation support agent that answers questions based on a provided website URL.",
+  "requestFramePermissions": []
+}
